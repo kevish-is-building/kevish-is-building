@@ -12,7 +12,7 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web Developer | 📱 Content Creator
 * ⚡  Why She left you bro ?
 
 
-<picture> <source srcset="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg](https://media1.tenor.com/m/DhPIDxv4VakAAAAC/hello-tech.gif)" /> </picture>
+![Hello Tech](https://media1.tenor.com/m/DhPIDxv4VakAAAAC/hello-tech.gif)
 
 ### Socials
 
