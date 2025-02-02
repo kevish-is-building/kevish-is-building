@@ -11,7 +11,7 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web Developer | 📱 Content Creator
 * 🤝  I'm open to collaborating on Fullstack Projects
 * ⚡  Why She left you bro ?
 
-
+https://media1.tenor.com/m/DhPIDxv4VakAAAAC/hello-tech.gif
 
 ### Socials
 
