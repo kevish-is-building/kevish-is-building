@@ -5,13 +5,15 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web Developer | 📱 Content Creator
 ----------------------------------------------------------------------
 
 * 🌍  I'm based in Haryana, India
-* 🖥️  See my portfolio at [KEVISH IS BLASTING HERE 🔥](http://https://kevish07.github.io/Portfolio/index.html)
-* ✉️  You can contact me at [prokevish07@gmail.com](mailto:prokevish07@gmail.com)
-* 🧠  I'm learning React JS & React Native
+* 🖥️  Portfolio at [KEVISH IS BLASTING HERE 🔥](http://https://kevish07.github.io/Portfolio/index.html)
+* ✉️  You can e-mail me at [prokevish07@gmail.com](mailto:prokevish07@gmail.com)
+* 🧠  I'm learning React JS & React Native More & More
 * 🤝  I'm open to collaborating on Fullstack Projects
-* ⚡  Why She left you bro ?
+* ⚡  Why She left you bro ? [Chill Just Kidding]
 
+# 💻 Tech Stack:
 
+# 💻 Tech Stack:
 ![Dr. Strange](https://media1.tenor.com/m/1P7ZJ_sKwkcAAAAd/dr-strange-doctor-strange.gif)
 
 ### Socials
