@@ -12,7 +12,7 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web Developer | 📱 Content Creator
 * ⚡  Why She left you bro ?
 
 
-![Hello Tech]([https://media1.tenor.com/m/DhPIDxv4VakAAAAC/hello-tech.gif](https://media1.tenor.com/m/1P7ZJ_sKwkcAAAAd/dr-strange-doctor-strange.gif))
+![Dr. Strange](https://media1.tenor.com/m/1P7ZJ_sKwkcAAAAd/dr-strange-doctor-strange.gif)
 
 ### Socials
 
