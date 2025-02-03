@@ -28,7 +28,7 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web Developer | 📱 Content Creator
 
 # My GitHub Stats
 
-<table>
+<table border="0>
   <tr>
     <td>
       <a href="http://www.github.com/kevish07">
