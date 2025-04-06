@@ -48,7 +48,6 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web Developer | 📱 Content Creator
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevish07&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
       </a>
       </div>
-      <div align="center">
       <h3>✍️ Random Dev Quote</h3>
       <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Random Dev Quote">
       </div>
