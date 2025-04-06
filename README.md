@@ -33,6 +33,7 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web Developer | 📱 Content Creator
 
 
 # My GitHub Stats
+
 <table align="center">
   <tr>
     <td align="center">
@@ -67,7 +68,11 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web Developer | 📱 Content Creator
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td colspan="2">
+      <div align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevish07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+      </div>
+      <br />
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevish07/kevish07/output/pacman-contribution-graph-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevish07/kevish07/output/pacman-contribution-graph.svg">
@@ -76,8 +81,6 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web Developer | 📱 Content Creator
     </td>
   </tr>
 </table>
-
-
 ###
 ---
 
