@@ -33,7 +33,7 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web Developer | 📱 Content Creator
 
 
 # My GitHub Stats
-
+<div>
   <div>
       <a href="http://www.github.com/kevish07">
         <img src="https://github-readme-stats.vercel.app/api?username=kevish07&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true&show_icons=true" alt="kevish07's GitHub stats" />
@@ -58,7 +58,7 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web Developer | 📱 Content Creator
   <a href="https://open.spotify.com/user/31rmildqwrboa6ivzd5mvewbbvfe">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rmildqwrboa6ivzd5mvewbbvfe&count=5&unique=false" alt="Spotify recently played"  />
   </a>
-
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevish07/kevish07/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevish07/kevish07/output/pacman-contribution-graph.svg">
