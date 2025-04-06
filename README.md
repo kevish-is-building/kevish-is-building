@@ -67,15 +67,6 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web Developer | 📱 Content Creator
       </a>
     </td>
   </tr>
-  <tr>
-      <br />
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevish07/kevish07/output/pacman-contribution-graph-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevish07/kevish07/output/pacman-contribution-graph.svg">
-        <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/kevish07/kevish07/output/pacman-contribution-graph.svg">
-      </picture>
-    </td>
-  </tr>
 </table>
 ###
 ---
