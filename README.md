@@ -49,9 +49,9 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web Developer | 📱 Content Creator
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/kevish07">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevish07&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Kevish's Top Languages" />
-      </a>
+      <div align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevish07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+      </div>
     </td>
     <td align="center">
       <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Random Dev Quote" />
@@ -68,10 +68,6 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web Developer | 📱 Content Creator
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <div align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevish07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-      </div>
       <br />
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevish07/kevish07/output/pacman-contribution-graph-dark.svg">
