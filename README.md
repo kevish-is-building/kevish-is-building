@@ -35,7 +35,7 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web Developer | 📱 Content Creator
 # My GitHub Stats
 <h2 align="center">📊 My GitHub Stats</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;">
   <a href="https://github.com/kevish07">
     <img src="https://github-readme-stats.vercel.app/api?username=kevish07&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true" alt="Kevish's GitHub Stats" />
   </a>
