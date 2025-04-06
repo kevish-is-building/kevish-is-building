@@ -33,36 +33,49 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web Developer | 📱 Content Creator
 
 
 # My GitHub Stats
-<h2 align="center">📊 My GitHub Stats</h2>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;">
-  <a href="https://github.com/kevish07">
-    <img src="https://github-readme-stats.vercel.app/api?username=kevish07&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true" alt="Kevish's GitHub Stats" />
-  </a>
-
-  <a href="https://github.com/kevish07">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevish07&stroke=ffffff&background=00000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Kevish's GitHub Streak" />
-  </a>
-
-  <a href="https://github.com/kevish07">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevish07&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Kevish's Top Languages" />
-  </a>
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Random Dev Quote" />
-
-  <img src="https://github-contributor-stats.vercel.app/api?username=kevish07&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-
-  <a href="https://open.spotify.com/user/31rmildqwrboa6ivzd5mvewbbvfe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rmildqwrboa6ivzd5mvewbbvfe&count=5&unique=false" alt="Spotify Recently Played" />
-  </a>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevish07/kevish07/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevish07/kevish07/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/kevish07/kevish07/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/kevish07">
+        <img src="https://github-readme-stats.vercel.app/api?username=kevish07&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true" alt="Kevish's GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kevish07">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevish07&stroke=ffffff&background=00000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Kevish's GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/kevish07">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevish07&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Kevish's Top Languages" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Random Dev Quote" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-contributor-stats.vercel.app/api?username=kevish07&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/user/31rmildqwrboa6ivzd5mvewbbvfe">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rmildqwrboa6ivzd5mvewbbvfe&count=5&unique=false" alt="Spotify Recently Played" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevish07/kevish07/output/pacman-contribution-graph-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevish07/kevish07/output/pacman-contribution-graph.svg">
+        <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/kevish07/kevish07/output/pacman-contribution-graph.svg">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 
 ###
