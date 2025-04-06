@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kevish07/count.svg?"  />
+</div>
+
+###
+
 Hi 👋
 My name is () => Kevish Sewliya
 ============================================================================================================================================
@@ -28,43 +34,37 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web Developer | 📱 Content Creator
 
 # My GitHub Stats
 
-<table>
-  <tr>
-    <td>
+  <div>
       <a href="http://www.github.com/kevish07">
         <img src="https://github-readme-stats.vercel.app/api?username=kevish07&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true&show_icons=true" alt="kevish07's GitHub stats" />
       </a>
-    </td>
-    <td>
+      <div>
       <a href="http://www.github.com/kevish07">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevish07&stroke=ffffff&background=00000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
+        </div>
+      <div>
       <a href="https://github.com/kevish07">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevish07&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
       </a>
-    </td>
-    <td>
+      </div>
       <div align="center">
       <h3>✍️ Random Dev Quote</h3>
       <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Random Dev Quote">
       </div>
-    </td>
-  </tr>
-</table>
 
-
-<div align="center">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kevish07&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
   <a href="https://open.spotify.com/user/31rmildqwrboa6ivzd5mvewbbvfe">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rmildqwrboa6ivzd5mvewbbvfe&count=5&unique=false" alt="Spotify recently played"  />
   </a>
-</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevish07/kevish07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevish07/kevish07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kevish07/kevish07/output/pacman-contribution-graph.svg">
+</picture
 
 ###
 ---
