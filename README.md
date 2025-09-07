@@ -14,8 +14,8 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web Developer | 📱 Content Creator
 * 🌍  I'm based in Haryana, India
 * 🖥️  Portfolio at [KEVISH IS BLASTING HERE 🔥](https://kevish07.github.io/Portfolio/)
 * ✉️  You can e-mail me at [prokevish07@gmail.com](mailto:prokevish07@gmail.com)
-* 🧠  I'm learning React JS & React Native More & More
-* 🤝  I'm open to collaborating on Fullstack Projects
+* 🧠  I'm learning AWS & DevOps & React Native More & More
+* 🤝  I'm open to collaborating on Web & Mobile Devlopment Projects
 * ⚡  Why She left you bro ? [Chill Just Kidding]
 
 
