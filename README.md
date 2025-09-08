@@ -8,11 +8,11 @@ Hi 👋
 My name is () => Kevish Sewliya
 ============================================================================================================================================
 
-BECOMING - 🧩 Problem Solver ? | 💻 Web Developer | 📱 Content Creator
+BECOMING - 🧩 Problem Solver ? | 💻 Web & Mobile Developer | 📱 Content Creator
 ----------------------------------------------------------------------
 
 * 🌍  I'm based in Haryana, India
-* 🖥️  Portfolio at [KEVISH IS BLASTING HERE 🔥](https://kevish07.github.io/Portfolio/)
+* 🖥️  Portfolio at [KEVISH IS BLASTING HERE 🔥](https://kevish-is-building.github.io/Portfolio/)
 * ✉️  You can e-mail me at [prokevish07@gmail.com](mailto:prokevish07@gmail.com)
 * 🧠  I'm learning AWS & DevOps & React Native More & More
 * 🤝  I'm open to collaborating on Web & Mobile Devlopment Projects
