@@ -19,7 +19,7 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web & Mobile Developer | 📱 Content Cr
 * ⚡  Why She left you bro ? [Chill Just Kidding]
 
 
-![Dr. Strange](https://media1.tenor.com/m/1P7ZJ_sKwkcAAAAd/dr-strange-doctor-strange.gif)
+![Dr. Strange](https://media1.tenor.com/m/jNGGYr4g4xAAAAAC/benedict-cumberbatch-dr-strange.gif)
 
 
 ## 🌐 Socials:
