@@ -49,17 +49,17 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web & Mobile Developer | 📱 Content Cr
   </tr>
   <tr>
     <td align="center">
-      <div align="left">
+      <a href="https://github.com/kevish-is-building">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevish-is-building&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="languages graph" />
-      </div>
+        </a>
     </td>
     <td align="center">
-      <img src="https://github-contributor-stats.vercel.app/api?username=kevish-is-building&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+      <img src="https://github-contributor-stats.vercel.app/api?username=kevish-is-building&limit=4&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Random Dev Quote" />
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
     </td>
     <td align="center">
       <a href="https://open.spotify.com/user/31rmildqwrboa6ivzd5mvewbbvfe">
@@ -68,8 +68,6 @@ BECOMING - 🧩 Problem Solver ? | 💻 Web & Mobile Developer | 📱 Content Cr
     </td>
   </tr>
 </table>
-
-###
 
 ---
 
