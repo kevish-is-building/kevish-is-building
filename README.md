@@ -8,7 +8,7 @@ Hi 👋
 My name is () => Kevish Sewliya
 ============================================================================================================================================
 
-BECOMING - 🧩 Problem Solver ? | 💻 Web & Mobile Developer | 📱 Content Creator
+const Becoming = role === "problemSolver" ? "💡 Problem Solver" : role === "developer" ? "💻 Web & Mobile Developer" : role === "contributor" ? "🌍 Open Source Contributor" : "📱 Content Creator";
 ----------------------------------------------------------------------
 
 * 🌍  I'm based in Haryana, India
